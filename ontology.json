@@ -53,7 +53,7 @@
   "@id" : "https://w3id.org/dot#ClassifiedDamage",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#",
+  "@id" : "https://w3id.org/nsd#",
   "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ],
   "http://purl.org/dc/termscreator" : [ {
     "@id" : "_:genid1"
@@ -70,7 +70,7 @@
     "@value" : "https://creativecommons.org/licenses/by/1.0"
   } ],
   "http://purl.org/dc/termsmodified" : [ {
-    "@value" : "June 21st 2021"
+    "@value" : "June 26st 2021"
   } ],
   "http://purl.org/dc/termstitle" : [ {
     "@language" : "en",
@@ -80,13 +80,13 @@
     "@value" : "nsd"
   } ],
   "http://purl.org/vocab/vann/preferredNamespaceUri" : [ {
-    "@value" : "https://www.bim-sis.de/ontology/damage/nsd#"
+    "@value" : "https://w3id.org/nsd#"
   } ],
   "http://www.w3.org/2002/07/owl#versionIRI" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#/0.8.0"
+    "@id" : "https://w3id.org/nsd#/0.8.0"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Abrasion",
+  "@id" : "https://w3id.org/nsd#Abrasion",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -103,10 +103,10 @@
     "@value" : "Abrieb"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#MechanicalDamage"
+    "@id" : "https://w3id.org/nsd#MechanicalDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Alga",
+  "@id" : "https://w3id.org/nsd#Alga",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -123,10 +123,10 @@
     "@value" : "Algen"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#BiologicalColonisation"
+    "@id" : "https://w3id.org/nsd#BiologicalColonisation"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Alveolization",
+  "@id" : "https://w3id.org/nsd#Alveolization",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -143,10 +143,10 @@
     "@value" : "Features induced by material loss"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StructuralLoss"
+    "@id" : "https://w3id.org/nsd#StructuralLoss"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#BiologicalColonisation",
+  "@id" : "https://w3id.org/nsd#BiologicalColonisation",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -163,10 +163,10 @@
     "@value" : "Biologische Besiedlung"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#BlackCrust",
+  "@id" : "https://w3id.org/nsd#BlackCrust",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -183,10 +183,10 @@
     "@value" : "Schwarze Kruste"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crust"
+    "@id" : "https://w3id.org/nsd#Crust"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Blistering",
+  "@id" : "https://w3id.org/nsd#Blistering",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -203,10 +203,10 @@
     "@value" : "Blistering"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Detachment"
+    "@id" : "https://w3id.org/nsd#Detachment"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Bursting",
+  "@id" : "https://w3id.org/nsd#Bursting",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -223,10 +223,10 @@
     "@value" : "Bursting"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Detachment"
+    "@id" : "https://w3id.org/nsd#Detachment"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Chipping",
+  "@id" : "https://w3id.org/nsd#Chipping",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -243,10 +243,10 @@
     "@value" : "Chipping"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Fragmentation"
+    "@id" : "https://w3id.org/nsd#Fragmentation"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Colouration",
+  "@id" : "https://w3id.org/nsd#Colouration",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -263,10 +263,10 @@
     "@value" : "Färbung"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#ConcaveDeformation",
+  "@id" : "https://w3id.org/nsd#ConcaveDeformation",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -283,10 +283,10 @@
     "@value" : "Konkave Verformung"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Deformation"
+    "@id" : "https://w3id.org/nsd#Deformation"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#ContourScaling",
+  "@id" : "https://w3id.org/nsd#ContourScaling",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -303,10 +303,10 @@
     "@value" : "Konturschale"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Scaling"
+    "@id" : "https://w3id.org/nsd#Scaling"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#ConvexDeformation",
+  "@id" : "https://w3id.org/nsd#ConvexDeformation",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -323,10 +323,10 @@
     "@value" : "Konvexe Verformung"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Deformation"
+    "@id" : "https://w3id.org/nsd#Deformation"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Coving",
+  "@id" : "https://w3id.org/nsd#Coving",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -343,10 +343,10 @@
     "@value" : "Features induced by material loss"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StructuralLoss"
+    "@id" : "https://w3id.org/nsd#StructuralLoss"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack",
+  "@id" : "https://w3id.org/nsd#Crack",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -363,10 +363,10 @@
     "@value" : "Riss"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Craquele",
+  "@id" : "https://w3id.org/nsd#Craquele",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -383,10 +383,10 @@
     "@value" : "Craquele"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crumbling",
+  "@id" : "https://w3id.org/nsd#Crumbling",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -403,10 +403,10 @@
     "@value" : "Crumbling"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Disintegration"
+    "@id" : "https://w3id.org/nsd#Disintegration"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crust",
+  "@id" : "https://w3id.org/nsd#Crust",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -423,10 +423,10 @@
     "@value" : "Kruste"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Cut",
+  "@id" : "https://w3id.org/nsd#Cut",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -443,10 +443,10 @@
     "@value" : "Einschnitt"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#MechanicalDamage"
+    "@id" : "https://w3id.org/nsd#MechanicalDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Deformation",
+  "@id" : "https://w3id.org/nsd#Deformation",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -463,10 +463,10 @@
     "@value" : "Verformung"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Delamination",
+  "@id" : "https://w3id.org/nsd#Delamination",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -483,10 +483,10 @@
     "@value" : "Schichtspaltung"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Detachment"
+    "@id" : "https://w3id.org/nsd#Detachment"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Deposit",
+  "@id" : "https://w3id.org/nsd#Deposit",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -503,10 +503,10 @@
     "@value" : "Deposit"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Detachment",
+  "@id" : "https://w3id.org/nsd#Detachment",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -523,10 +523,10 @@
     "@value" : "Detachment"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DifferentialErosion",
+  "@id" : "https://w3id.org/nsd#DifferentialErosion",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -543,10 +543,10 @@
     "@value" : "Differenzielle Erosion"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Erosion"
+    "@id" : "https://w3id.org/nsd#Erosion"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit",
+  "@id" : "https://w3id.org/nsd#DiscolorationDeposit",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -563,10 +563,10 @@
     "@value" : "Verfärbung und Ablagerung"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Disintegration",
+  "@id" : "https://w3id.org/nsd#Disintegration",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -583,10 +583,10 @@
     "@value" : "Zerfall in Gesteinspartikel"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Detachment"
+    "@id" : "https://w3id.org/nsd#Detachment"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Efflorescence",
+  "@id" : "https://w3id.org/nsd#Efflorescence",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -603,10 +603,10 @@
     "@value" : "Efflorescence"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Erosion",
+  "@id" : "https://w3id.org/nsd#Erosion",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -623,10 +623,10 @@
     "@value" : "Erosion"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StructuralLoss"
+    "@id" : "https://w3id.org/nsd#StructuralLoss"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Exfoliation",
+  "@id" : "https://w3id.org/nsd#Exfoliation",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -643,10 +643,10 @@
     "@value" : "Exfoliation"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Delamination"
+    "@id" : "https://w3id.org/nsd#Delamination"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Film",
+  "@id" : "https://w3id.org/nsd#Film",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -663,10 +663,10 @@
     "@value" : "Filmbildung"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Flaking",
+  "@id" : "https://w3id.org/nsd#Flaking",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -683,10 +683,10 @@
     "@value" : "Flaking"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Scaling"
+    "@id" : "https://w3id.org/nsd#Scaling"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Fracture",
+  "@id" : "https://w3id.org/nsd#Fracture",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -703,10 +703,10 @@
     "@value" : "Fracture"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Fragmentation",
+  "@id" : "https://w3id.org/nsd#Fragmentation",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -723,10 +723,10 @@
     "@value" : "Zerbrechen"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Detachment"
+    "@id" : "https://w3id.org/nsd#Detachment"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Gap",
+  "@id" : "https://w3id.org/nsd#Gap",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -743,10 +743,10 @@
     "@value" : "Lücke"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StructuralLoss"
+    "@id" : "https://w3id.org/nsd#StructuralLoss"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#GapDamage",
+  "@id" : "https://w3id.org/nsd#GapDamage",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -766,7 +766,7 @@
     "@id" : "https://w3id.org/dot#ClassifiedDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Graffiti",
+  "@id" : "https://w3id.org/nsd#Graffiti",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -783,10 +783,10 @@
     "@value" : "Graffiti"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#GranularDisintegration",
+  "@id" : "https://w3id.org/nsd#GranularDisintegration",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -803,10 +803,10 @@
     "@value" : "Körniger Zerfall"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Disintegration"
+    "@id" : "https://w3id.org/nsd#Disintegration"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#HairCrack",
+  "@id" : "https://w3id.org/nsd#HairCrack",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -823,10 +823,10 @@
     "@value" : "Hair crack"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#ImpactDamage",
+  "@id" : "https://w3id.org/nsd#ImpactDamage",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -843,10 +843,10 @@
     "@value" : "Impact damage"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#MechanicalDamage"
+    "@id" : "https://w3id.org/nsd#MechanicalDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#IronRichPatina",
+  "@id" : "https://w3id.org/nsd#IronRichPatina",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -863,10 +863,10 @@
     "@value" : "Iron rich patina"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Patina"
+    "@id" : "https://w3id.org/nsd#Patina"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Keying",
+  "@id" : "https://w3id.org/nsd#Keying",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -883,10 +883,10 @@
     "@value" : "Keying"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#MechanicalDamage"
+    "@id" : "https://w3id.org/nsd#MechanicalDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Lichen",
+  "@id" : "https://w3id.org/nsd#Lichen",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -903,10 +903,10 @@
     "@value" : "Lichen"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#BiologicalColonisation"
+    "@id" : "https://w3id.org/nsd#BiologicalColonisation"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#MechanicalDamage",
+  "@id" : "https://w3id.org/nsd#MechanicalDamage",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -923,10 +923,10 @@
     "@value" : "Mechanischer Schaden"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Microkarst",
+  "@id" : "https://w3id.org/nsd#Microkarst",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -943,10 +943,10 @@
     "@value" : "Mikrokarst"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StructuralLoss"
+    "@id" : "https://w3id.org/nsd#StructuralLoss"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#MoistArea",
+  "@id" : "https://w3id.org/nsd#MoistArea",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -963,10 +963,10 @@
     "@value" : "Moist area"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Moss",
+  "@id" : "https://w3id.org/nsd#Moss",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -983,10 +983,10 @@
     "@value" : "Moss"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#BiologicalColonisation"
+    "@id" : "https://w3id.org/nsd#BiologicalColonisation"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Mould",
+  "@id" : "https://w3id.org/nsd#Mould",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1003,10 +1003,10 @@
     "@value" : "Schimmel"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#BiologicalColonisation"
+    "@id" : "https://w3id.org/nsd#BiologicalColonisation"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#OxalatePatina",
+  "@id" : "https://w3id.org/nsd#OxalatePatina",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1023,10 +1023,10 @@
     "@value" : "Oxalatpatina"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Patina"
+    "@id" : "https://w3id.org/nsd#Patina"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Patina",
+  "@id" : "https://w3id.org/nsd#Patina",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1043,10 +1043,10 @@
     "@value" : "Patina"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Peeling",
+  "@id" : "https://w3id.org/nsd#Peeling",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1063,10 +1063,10 @@
     "@value" : "Peeling"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Detachment"
+    "@id" : "https://w3id.org/nsd#Detachment"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Pitting",
+  "@id" : "https://w3id.org/nsd#Pitting",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1083,10 +1083,10 @@
     "@value" : "Pitting"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StructuralLoss"
+    "@id" : "https://w3id.org/nsd#StructuralLoss"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Plants",
+  "@id" : "https://w3id.org/nsd#Plants",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1103,10 +1103,10 @@
     "@value" : "Plant"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#BiologicalColonisation"
+    "@id" : "https://w3id.org/nsd#BiologicalColonisation"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Roughening",
+  "@id" : "https://w3id.org/nsd#Roughening",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1123,10 +1123,10 @@
     "@value" : "Roughening"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Erosion"
+    "@id" : "https://w3id.org/nsd#Erosion"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Rounding",
+  "@id" : "https://w3id.org/nsd#Rounding",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1143,10 +1143,10 @@
     "@value" : "Zurundung"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Erosion"
+    "@id" : "https://w3id.org/nsd#Erosion"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#SaltCrust",
+  "@id" : "https://w3id.org/nsd#SaltCrust",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1163,10 +1163,10 @@
     "@value" : "Salzkruste"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crust"
+    "@id" : "https://w3id.org/nsd#Crust"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Scaling",
+  "@id" : "https://w3id.org/nsd#Scaling",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1183,10 +1183,10 @@
     "@value" : "Scaling"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Detachment"
+    "@id" : "https://w3id.org/nsd#Detachment"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Scratch",
+  "@id" : "https://w3id.org/nsd#Scratch",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1203,10 +1203,10 @@
     "@value" : "Scratch"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#MechanicalDamage"
+    "@id" : "https://w3id.org/nsd#MechanicalDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#SingleCrack",
+  "@id" : "https://w3id.org/nsd#SingleCrack",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1223,10 +1223,10 @@
     "@value" : "Single crack"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Soiling",
+  "@id" : "https://w3id.org/nsd#Soiling",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1243,10 +1243,10 @@
     "@value" : "Verschmutzung"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Splintering",
+  "@id" : "https://w3id.org/nsd#Splintering",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1263,10 +1263,10 @@
     "@value" : "Splintering"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Fragmentation"
+    "@id" : "https://w3id.org/nsd#Fragmentation"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Splitting",
+  "@id" : "https://w3id.org/nsd#Splitting",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1283,10 +1283,10 @@
     "@value" : "Splitting"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Staining",
+  "@id" : "https://w3id.org/nsd#Staining",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1303,10 +1303,10 @@
     "@value" : "Staining"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StarCrack",
+  "@id" : "https://w3id.org/nsd#StarCrack",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1323,10 +1323,10 @@
     "@value" : "sternförmiger Riss"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage",
+  "@id" : "https://w3id.org/nsd#StoneDamage",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1346,7 +1346,7 @@
     "@id" : "https://w3id.org/dot#ClassifiedDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StructuralLoss",
+  "@id" : "https://w3id.org/nsd#StructuralLoss",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1363,16 +1363,16 @@
     "@value" : "Formen des Materialverlusts"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#VisualTemplate",
+  "@id" : "https://w3id.org/nsd#VisualTemplate",
   "@type" : [ "http://www.w3.org/2002/07/owl#Class" ],
   "http://www.w3.org/2000/01/rdf-schema#subClassOf" : [ {
     "@id" : "https://schema.org/ImageObject"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#appearance",
+  "@id" : "https://w3id.org/nsd#appearance",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1382,7 +1382,7 @@
     "@value" : "describes the appearance of the detected damage."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#GapDamage"
+    "@id" : "https://w3id.org/nsd#GapDamage"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -1392,7 +1392,7 @@
     "@value" : "aussehen"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#color",
+  "@id" : "https://w3id.org/nsd#color",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1402,7 +1402,7 @@
     "@value" : "Describes the color of a detected discoloration or deposit"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1412,7 +1412,7 @@
     "@value" : "color"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#colorChange",
+  "@id" : "https://w3id.org/nsd#colorChange",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1422,7 +1422,7 @@
     "@value" : "States whether a color change is detected in the deposit or not."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1432,7 +1432,7 @@
     "@value" : "color change"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#crackDepth",
+  "@id" : "https://w3id.org/nsd#crackDepth",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1449,12 +1449,12 @@
     "@value" : "crack depth"
   } ],
   "https://schema.org/domainIncludes" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#GapDamage"
+    "@id" : "https://w3id.org/nsd#GapDamage"
   }, {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#crackDirection",
+  "@id" : "https://w3id.org/nsd#crackDirection",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1464,7 +1464,7 @@
     "@value" : "defines the direction or alignment of a crack"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1474,7 +1474,7 @@
     "@value" : "crack direction"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#crackLength",
+  "@id" : "https://w3id.org/nsd#crackLength",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1484,7 +1484,7 @@
     "@value" : "definiert die Länge eines Risses in [mm]"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1494,7 +1494,7 @@
     "@value" : "crack length"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#crackNumber",
+  "@id" : "https://w3id.org/nsd#crackNumber",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1511,12 +1511,12 @@
     "@value" : "crack amount"
   } ],
   "https://schema.org/domainIncludes" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#GapDamage"
+    "@id" : "https://w3id.org/nsd#GapDamage"
   }, {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#crackSpacing",
+  "@id" : "https://w3id.org/nsd#crackSpacing",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1526,7 +1526,7 @@
     "@value" : "definiert den Abstand von mehreren Rissen in einem Schadensbereich in [mm]"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1536,7 +1536,7 @@
     "@value" : "crack spacing"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#crackWidth",
+  "@id" : "https://w3id.org/nsd#crackWidth",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1546,7 +1546,7 @@
     "@value" : "definiert die Breite eines Risses in [mm]"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1556,7 +1556,7 @@
     "@value" : "crack width"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#damageArea",
+  "@id" : "https://w3id.org/nsd#damageArea",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1573,20 +1573,20 @@
     "@value" : "damage area"
   } ],
   "https://schema.org/domainIncludes" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#MechanicalDamage"
+    "@id" : "https://w3id.org/nsd#MechanicalDamage"
   }, {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StructuralLoss"
+    "@id" : "https://w3id.org/nsd#StructuralLoss"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#damageExtend",
+  "@id" : "https://w3id.org/nsd#damageExtend",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "https://schema.org/domainIncludes" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#GapDamage"
+    "@id" : "https://w3id.org/nsd#GapDamage"
   }, {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#damageImpact",
+  "@id" : "https://w3id.org/nsd#damageImpact",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1603,12 +1603,12 @@
     "@value" : "damage impact"
   } ],
   "https://schema.org/domainIncludes" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#GapDamage"
+    "@id" : "https://w3id.org/nsd#GapDamage"
   }, {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#damageIntensity",
+  "@id" : "https://w3id.org/nsd#damageIntensity",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1625,12 +1625,12 @@
     "@value" : "damage intensity"
   } ],
   "https://schema.org/domainIncludes" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#GapDamage"
+    "@id" : "https://w3id.org/nsd#GapDamage"
   }, {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#damageLength",
+  "@id" : "https://w3id.org/nsd#damageLength",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1640,7 +1640,7 @@
     "@value" : "definiert die Länge eines Schadens in [mm]"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#GapDamage"
+    "@id" : "https://w3id.org/nsd#GapDamage"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1650,7 +1650,7 @@
     "@value" : "damage length"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#damageLocation",
+  "@id" : "https://w3id.org/nsd#damageLocation",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1660,7 +1660,7 @@
     "@value" : "Definiert ob ein Schaden an der Steinfläche oder Steinkanten lokalisiert ist."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StructuralLoss"
+    "@id" : "https://w3id.org/nsd#StructuralLoss"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1670,7 +1670,7 @@
     "@value" : "damage location"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#deposit",
+  "@id" : "https://w3id.org/nsd#deposit",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1680,7 +1680,7 @@
     "@value" : "Definiert, ob eine Ablagerung im Stein verortet wurde oder nicht."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#DiscolorationDeposit"
+    "@id" : "https://w3id.org/nsd#DiscolorationDeposit"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1690,22 +1690,22 @@
     "@value" : "deposit existent"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#descriptionContent",
+  "@id" : "https://w3id.org/nsd#descriptionContent",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#hasVisualTemplate",
+  "@id" : "https://w3id.org/nsd#hasVisualTemplate",
   "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#range" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#VisualTemplate"
+    "@id" : "https://w3id.org/nsd#VisualTemplate"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#subPropertyOf" : [ {
     "@id" : "https://schema.org/image"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#layerColor",
+  "@id" : "https://w3id.org/nsd#layerColor",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1715,7 +1715,7 @@
     "@value" : "Describes the color of a layer of a biological colonisation"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#BiologicalColonisation"
+    "@id" : "https://w3id.org/nsd#BiologicalColonisation"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1725,7 +1725,7 @@
     "@value" : "layer color"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#layerThickness",
+  "@id" : "https://w3id.org/nsd#layerThickness",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1735,7 +1735,7 @@
     "@value" : "Definiert die Dicke einer Schicht einer Biologischen Besiedlung in [mm]"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#BiologicalColonisation"
+    "@id" : "https://w3id.org/nsd#BiologicalColonisation"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "de",
@@ -1745,7 +1745,7 @@
     "@value" : "layer thickness"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#materialLoss",
+  "@id" : "https://w3id.org/nsd#materialLoss",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "de",
@@ -1762,12 +1762,12 @@
     "@value" : "material loss"
   } ],
   "https://schema.org/domainIncludes" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#GapDamage"
+    "@id" : "https://w3id.org/nsd#GapDamage"
   }, {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#numDiffDamages",
+  "@id" : "https://w3id.org/nsd#numDiffDamages",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
     "@language" : "en",
@@ -1777,7 +1777,7 @@
     "@value" : "gibt die Anzahl unterschiedlicher Schadenstypen für einen Steinschaden an"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#StoneDamage"
+    "@id" : "https://w3id.org/nsd#StoneDamage"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
     "@language" : "en",
@@ -1787,15 +1787,15 @@
     "@value" : "Anzahl unterschiedlicher Schäden"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#relToStoneStructure",
+  "@id" : "https://w3id.org/nsd#relToStoneStructure",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Detachment"
+    "@id" : "https://w3id.org/nsd#Detachment"
   } ]
 }, {
-  "@id" : "https://www.bim-sis.de/ontology/damage/nsd#structuralEffect",
+  "@id" : "https://w3id.org/nsd#structuralEffect",
   "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "https://www.bim-sis.de/ontology/damage/nsd#Crack"
+    "@id" : "https://w3id.org/nsd#Crack"
   } ]
 } ]
