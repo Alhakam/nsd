@@ -11,7 +11,7 @@ The Natural Stone Damage Ontology (NSD) is an extension of the Damage Topology O
 * Canonical URI for the json-ld representation: [https://w3id.org/nsd/nsd.jsonld](https://alhakam.github.io/nsd/ontology.json)
 * Canonical URI for the RDF/XML representation: [https://w3id.org/nsd/nsd.rdf](https://alhakam.github.io/nsd/ontology.xml)
 
-The most recent version of DOT is always available in this Github repository
+The most recent version of NSD is always available in this Github repository
 
 [Al-Hakam Hamdan](https://github.com/Alhakam) - TU Dresden
 
